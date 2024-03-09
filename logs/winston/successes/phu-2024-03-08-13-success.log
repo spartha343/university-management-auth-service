@@ -1,0 +1,60 @@
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2024-03-08T07:01:42.989Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2024-03-08T07:01:43.007Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2024-03-08T07:04:26.717Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2024-03-08T07:04:26.742Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2024-03-08T07:04:44.571Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2024-03-08T07:04:44.592Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2024-03-08T07:07:19.847Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2024-03-08T07:07:19.867Z'
+}
+{
+  message: 'Database connection successfull',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2024-03-08T07:15:23.520Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2024-03-08T07:15:23.541Z'
+}
