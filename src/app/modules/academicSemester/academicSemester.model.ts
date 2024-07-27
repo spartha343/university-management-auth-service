@@ -43,6 +43,7 @@ const academicSemesterSchema = new Schema<IAcademicSemester>(
   }
 );
 
+//handling same year and same semester issue
 academicSemesterSchema.pre('save', async function (next) {
   const doesExist = await AcademicSemester.findOne({
     title: this.title,
@@ -61,5 +62,3 @@ export const AcademicSemester = model<IAcademicSemester, AcademicSemesterModel>(
   'AcademicSemester',
   academicSemesterSchema
 );
-
-//handling same year and same semester issue
