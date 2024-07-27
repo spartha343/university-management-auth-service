@@ -1,0 +1,12 @@
+{
+  statusCode: 400,
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2024-07-26T17:30:16.338Z'
+}
+{
+  statusCode: 409,
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2024-07-26T17:56:59.839Z'
+}

@@ -25,7 +25,10 @@ async function bootstrap() {
 
   process.on('unhandledRejection', error => {
     // eslint-disable-next-line no-console
-    console.log('Unhandled Rejection is detected. We are closing our server');
+    console.log(
+      'Unhandled Rejection is detected. We are closing our server',
+      error
+    );
     if (server) {
       server.close(() => {
         errorLogger.error(error);
