@@ -1,0 +1,13 @@
+{
+  connectionGeneration: 0,
+  level: 'error',
+  message: 'failed to connect to database connection 1 to 34.198.25.25:27017 timed out',
+  stack: 'MongoNetworkTimeoutError: connection 1 to 34.198.25.25:27017 timed out\n' +
+    '    at Timeout._onTimeout (C:\\projects\\university-management\\university-management-auth-service-backend\\node_modules\\mongodb\\src\\cmap\\connection.ts:301:20)\n' +
+    '    at listOnTimeout (node:internal/timers:581:17)\n' +
+    '    at processTimers (node:internal/timers:519:7)',
+  label: 'right meow!',
+  timestamp: '2024-07-31T06:32:52.168Z',
+  [Symbol(errorLabels)]: Set(1) { 'ResetPool' },
+  [Symbol(beforeHandshake)]: true
+}
