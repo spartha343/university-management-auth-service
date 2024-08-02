@@ -1,0 +1,16 @@
+{
+  connectionGeneration: 0,
+  level: 'error',
+  message: 'failed to connect to database connection timed out',
+  stack: 'MongoNetworkTimeoutError: connection timed out\n' +
+    '    at connectionFailureError (C:\\projects\\university-management\\university-management-auth-service-backend\\node_modules\\mongodb\\src\\cmap\\connect.ts:472:14)\n' +
+    '    at TLSSocket.<anonymous> (C:\\projects\\university-management\\university-management-auth-service-backend\\node_modules\\mongodb\\src\\cmap\\connect.ts:373:37)\n' +
+    '    at Object.onceWrapper (node:events:633:28)\n' +
+    '    at TLSSocket.emit (node:events:519:28)\n' +
+    '    at TLSSocket.Socket._onTimeout (node:net:591:8)\n' +
+    '    at listOnTimeout (node:internal/timers:581:17)\n' +
+    '    at processTimers (node:internal/timers:519:7)',
+  label: 'right meow!',
+  timestamp: '2024-07-31T18:11:11.914Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
