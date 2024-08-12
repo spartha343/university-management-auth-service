@@ -2,47 +2,59 @@
   message: 'Database is connected successfully.',
   level: 'info',
   label: 'right meow!',
-  timestamp: '2024-07-25T15:45:58.626Z'
+  timestamp: '2024-08-12T05:28:56.228Z'
 }
 {
   message: 'Application listening on port 5000',
   level: 'info',
   label: 'right meow!',
-  timestamp: '2024-07-25T15:45:58.647Z'
+  timestamp: '2024-08-12T05:28:56.233Z'
 }
 {
   message: 'Database is connected successfully.',
   level: 'info',
   label: 'right meow!',
-  timestamp: '2024-07-25T15:47:13.738Z'
+  timestamp: '2024-08-12T05:33:42.378Z'
 }
 {
   message: 'Application listening on port 5000',
   level: 'info',
   label: 'right meow!',
-  timestamp: '2024-07-25T15:47:13.743Z'
+  timestamp: '2024-08-12T05:33:42.385Z'
 }
 {
   message: 'Database is connected successfully.',
   level: 'info',
   label: 'right meow!',
-  timestamp: '2024-07-25T15:48:03.893Z'
+  timestamp: '2024-08-12T05:38:33.896Z'
 }
 {
   message: 'Application listening on port 5000',
   level: 'info',
   label: 'right meow!',
-  timestamp: '2024-07-25T15:48:03.902Z'
+  timestamp: '2024-08-12T05:38:33.901Z'
 }
 {
   message: 'Database is connected successfully.',
   level: 'info',
   label: 'right meow!',
-  timestamp: '2024-07-25T15:48:29.361Z'
+  timestamp: '2024-08-12T05:56:40.538Z'
 }
 {
   message: 'Application listening on port 5000',
   level: 'info',
   label: 'right meow!',
-  timestamp: '2024-07-25T15:48:29.367Z'
+  timestamp: '2024-08-12T05:56:40.544Z'
+}
+{
+  message: 'Database is connected successfully.',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2024-08-12T05:57:01.505Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2024-08-12T05:57:01.511Z'
 }
